@@ -1,0 +1,20 @@
+.everythingEverywhereAllAtOnce {
+    background-image: url("record.png");
+    background-repeat: repeat;
+}
+
+.supercool {
+    background-color: darkolivegreen;
+    color: floralwhite;
+    text-align: center;
+}
+
+.mane {
+    background-color: lightgrey;
+}
+
+body {
+    margin: 0px;
+    padding: 1em;
+}
+
